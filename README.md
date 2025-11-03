@@ -1,0 +1,1 @@
+Yalla Chat starter. See app.py and templates/index.html. Run with uvicorn app:app --reload
